@@ -1,6 +1,16 @@
-# -*- coding: utf-8 -*-
-# Author:0verWatch
+# HW2(維吉尼亞密碼原理及Python實現)
+## (簡介)
+   維吉尼亞密碼是使用一系列凱撒密碼組成密碼字母表的加密算
+   法，屬於多表密碼的一種簡單形式。
+## 算法描述
+* 加密過程:明文字母p對應的列和秘鑰字母k對應的行的交叉點就 是加密字母后的密文字母
+* 解密過程:在密鑰字母k對應的行找到對應密文字母，則該密 文  字母對應的列的字母就是明文字母
 
+* ![維吉尼亞密碼的表格]
+* picture
+ <img src="../img/abc.jpg" width="300" height="200"  align=center /> 
+### [程式碼](https://github.com/cycyucheng1010/ai109b/blob/main/Homework/HW2-3.py):
+```
 import string
 
 
@@ -94,3 +104,14 @@ if __name__ == '__main__':
             message = get_info()
             key = get_real_key()
             print(Decrypt(message, key))
+
+```
+*這里以輸入”helloworld”為例，然後進行加解密，能夠正確完
+成
+### 結果
+
+* picture
+ <img src="../img/01.jpg" width="300" height="200"  align=center /> 
+
+* picture
+ <img src="../img/02.jpg" width="300" height="200"  align=center /> 
