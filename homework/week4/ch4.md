@@ -9,6 +9,7 @@
 * ![維吉尼亞密碼的表格]
 * picture
  <img src="../img/abc.jpg" width="300" height="200"  align=center /> 
+ 
 ## [程式碼](https://github.com/Yongsin0/ai109b/blob/main/homework/week4/ddd.py):
 
 ```
