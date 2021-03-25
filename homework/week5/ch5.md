@@ -2,11 +2,11 @@
 ## (簡介)
    八皇后問題是一個以西洋棋為背景的問題：如何能夠在8×8的西洋棋棋盤上放置八個皇后，使得任何一個皇后都無法直接吃掉其他的皇后？為了達到此目的，任兩個皇后都不能處於同一條橫行、縱行或斜線上。
 
-* ![維吉尼亞密碼的表格]
+* ![八皇后構想]
 
 * picture
- <img src="../img/abc.jpg" width="300" height="200"  align=center /> 
- 
+ <img src="../img/03.jpg" width="300" height="200"  align=center /> 
+
 ## [程式碼](https://github.com/Yongsin0/ai109b/blob/main/homework/bbb.py):
 
 ```
