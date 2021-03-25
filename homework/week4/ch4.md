@@ -9,7 +9,7 @@
 * ![維吉尼亞密碼的表格]
 * picture
  <img src="../img/abc.jpg" width="300" height="200"  align=center /> 
-### [程式碼](https://github.com/cycyucheng1010/ai109b/blob/main/Homework/HW2-3.py):
+### [程式碼](https://github.com/Yongsin0/ai109b/blob/main/homework/week4/ddd.py):
 ```
 import string
 
@@ -104,7 +104,6 @@ if __name__ == '__main__':
             message = get_info()
             key = get_real_key()
             print(Decrypt(message, key))
-
 ```
 *這里以輸入”helloworld”為例，然後進行加解密，能夠正確完
 成
