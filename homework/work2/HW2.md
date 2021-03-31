@@ -36,7 +36,7 @@ n_queen(0)
 print(count)
 
 ```
-## [八皇后輸出結果：]()
+## [八皇后輸出結果：](https://github.com/weng0418/ai109b/blob/main/homework/work2/8queen.txt)
 
 ```
 [0, 4, 7, 5, 2, 6, 1, 3]
@@ -135,10 +135,10 @@ print(count)
 ```
 ### 八皇后總共有92種解法
 
-## [四皇后輸出結果：]()
+## [四皇后輸出結果：](https://github.com/weng0418/ai109b/blob/main/homework/work2/4queen.txt)
 ```
 [1, 3, 0, 2]
 [2, 0, 3, 1]
 2
 ```
-### 四皇后總共有92種解法
+### 四皇后總共有2種解法
