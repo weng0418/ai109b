@@ -9,7 +9,10 @@ def tableNext(n, p):
 		return      # 返回上層
 	for x in [0,1]:     # x 是 0 或 1
 		p.append(x)		# 把 x 放進表
+        #print(p)
 		tableNext(n, p)	# 繼續遞迴尋找下一個排列
-		p.pop()			# 把 x 移出表
-
-truthTable(4) # 印出 3 變數的真值表
+        #print(p)
+		p.pop()			
+        #print(p)
+        
+truthTable(4)           # 印出4變數的真值表
