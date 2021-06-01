@@ -24,7 +24,7 @@ truthTable(4)            # 印出4變數的真值表
 
 * 參考老師程式範例，並加以註解
 
-## [結果](https://github.com/weng0418/ai109b/blob/main/homework/work3/HW3.png)
+## [輸出結果:](https://github.com/weng0418/ai109b/blob/main/homework/work3/HW3.png)
 ```
 [0, 0, 0, 0]
 [0, 0, 0, 1]
