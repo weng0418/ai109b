@@ -24,4 +24,4 @@
 
 * 常見的激活函數：sigmoid，tanh，relu。
 
-資料出處:[激活函數 sigmoid、tanh、relu](https://www.jianshu.com/p/857d5859d2cc)
+# 資料來源:[激活函數 sigmoid、tanh、relu](https://www.jianshu.com/p/857d5859d2cc)
