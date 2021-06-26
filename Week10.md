@@ -36,4 +36,4 @@
 ## [Prolog 語言入門教程](https://www.ruanyifeng.com/blog/2019/01/prolog.html)
 
 # 內容補充
-<img src="img/.png"> 
+<img src="img/Week10.jpg"> 
