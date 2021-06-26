@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/62419535/123519919-996ce100-d6e0-11eb-8a1d-542c6f75e590.png)
 
-# 資料參考:[反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
+# 資料來源自維基百科:[反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
 # 圖片出處:[一分鐘學ＡＩ(3) — 梯度下降與反傳遞算法](https://ccckmit.medium.com/%E4%B8%80%E5%88%86%E9%90%98%E5%AD%B8%EF%BD%81%EF%BD%89-3-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E8%88%87%E5%8F%8D%E5%82%B3%E9%81%9E%E7%AE%97%E6%B3%95-90f1ed03ffdd)
 
 ## PyTorch
