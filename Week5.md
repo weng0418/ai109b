@@ -6,7 +6,7 @@ n 皇后問題研究的是如何將 n 個皇后放置在 n×n 的棋盤上，並
 
 給定一個整數n，返回所有不同的 n皇后問題的解決方案。
 
-<img src="img/queen.png" width="500" height="400"  align=center /> 
+<img src="img/queen.png"> 
 
 上圖為八皇后92種解法其中一種
 
