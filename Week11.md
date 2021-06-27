@@ -5,3 +5,8 @@
 * 在希爾伯特空間，傅立葉級數的研究變得很方便，該空間將調和分析和泛函分析聯繫起來。
 # 內容出處:[傅立葉分析](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%88%86%E6%9E%90)
 # [傅立葉分析之掐死教程](https://zhuanlan.zhihu.com/p/19763358?fbclid=IwAR2jVP63mr4--sW1ZFbK2mjyZ_c2qY8SolV39nB-3udBWpQlVV0SnvmbFtE)
+
+# 內容補充:
+<img src="img/Week11-1.jpg">
+<img src="img/Week11-2.jpg">
+<img src="img/Week11-3.jpg"> 
