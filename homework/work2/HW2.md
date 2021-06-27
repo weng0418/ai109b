@@ -1,10 +1,14 @@
 # N個皇后問題
+## 看懂老師的[程式碼](https://gitlab.com/ccc109/ai/-/blob/master/_homework/02-queen/queen.py)並修改和註解
 ## 問題說明：
 
 n 皇后問題研究的是如何將 n 個皇后放置在 n×n 的棋盤上，並且使皇后彼此之間不能相互攻擊。
 
 給定一個整數n，返回所有不同的 n皇后問題的解決方案。
 
+<img src="../img/queen.png"> 
+
+* 上圖為八皇后92種解法其中一種
 [圖片取自維基百科](https://zh.wikipedia.org/wiki/%E5%85%AB%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98)
 
 ## [程式碼]()
